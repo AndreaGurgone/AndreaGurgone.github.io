@@ -1,27 +1,18 @@
-﻿info: "L’Associazione Italiana Studenti di Fisica (AISF) è un’associazione di studenti per studenti nata
-nell’Agosto 2014.
-Nel corso dei suoi tre anni di vita è cresciuta fino ad avere oltre 1000 membri in più di 20 università
-italiane ed estere. AISF fa parte di un network internazionale, l’International Association of Physics
-Students, che conta più di 75000 studenti.
-L’associazione è molto attiva a livello locale, conta 12 Comitati Locali su tutto il territorio italiano, con
-eventi di divulgazione scientifica e visite ai laboratori; inoltre AISF organizza eventi internazionali e
-nazionali, tra cui la Conferenza Italiana Studenti di Fisica (CISF).
-</p><p>
-La CISF è giunta alla quarta edizione e si svolgerà quest’anno a Pisa dove circa 200 studenti
+﻿info: "
+La <b>CISF</b> è organizzata dall'<b>Associazione Italiana Studenti di Fisica</b> (AISF) e ne costituisce il principale evento annuale.
+Quest'anno la CISF, giunta alla quarta edizione, si svolgerà a <b>Pisa</b> dove circa <b>150 studenti</b>
 provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
-della zona, seguire una serie di interventi di illustri Professori e Ricercatori dell’Università di Pisa e
-conoscere e vivere la quotidianità pisana.
+della zona, seguire una serie di interventi di illustri professori e ricercatori, conoscere e vivere la quotidianità dell'ambiente universitario pisano,
+reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR.
 </p><p>"
-
-last_update: 05/06/17
 
 schedule:
   - day: Venerdì
     date: "20/04"
-    short_descr: Accoglienza e cerimonia di apertura
+    short_descr: <b>Accoglienza e cerimonia di apertura</b>
     activity:
       - hour: "18:00 - 18:20"
-        descr: "Messaggio di benvenuto dal presidente del comitato locale G. Bagnato"
+        descr: "Benvenuto dal comitato locale AISF-Pisa"
       - hour: "18:20 - 18:45"
         descr: "Presentazione di AISF e {iaps}"
       - hour: "18:45 - 19:05"
@@ -34,7 +25,7 @@ schedule:
         descr: "Cena tipica toscana"
   - day: Sabato
     date: "21/04"
-    short_descr: Scientific talk e visita a VIRGO
+    short_descr: <b>Talk e visita a VIRGO</b>
     activity:
       - hour: "9:00 - 10:00"
         descr: "Eventi AISF"
@@ -54,7 +45,7 @@ schedule:
         descr: "Cena + Regions"
   - day: Domenica
     date: "22/04"
-    short_descr: Talk, poster e Parallels
+    short_descr: <b>Talk, poster e Parallels</b>
     activity:
       - hour: "9:30-10:30"
         descr: "Attività AISF"
@@ -74,7 +65,7 @@ schedule:
         descr: "Serata libera"
   - day: Lunedì
     date: "23/04"
-    short_descr: AGA e laboratori a scelta
+    short_descr: <b>AGA e laboratori a scelta</b>
     activity:
       - hour: "9:00 - 14:00"
         descr: "AGA"
@@ -86,7 +77,7 @@ schedule:
         descr: "Cena in pizzeria"
   - day: Martedì
     date: "24/04"
-    short_descr: Laboratori a scelta e partenze
+    short_descr: <b>Laboratori a scelta e partenze</b>
     activity:
      - hour: "9:00 - 14:00"
        descr: "Visita ai laboratori a scelta"
@@ -96,9 +87,7 @@ schedule:
 few_info:
   info: ""
   specs:
-    - text: "In order to enroll to the event you must be an IAPS member, in particular member of the Italian Association of Physics Students (AISF) or a member of jDPG."
+    - text: "Per partecipare all'evento è necessario essere membri dell'Associazione Italiana Studenti di Fisica (AISF) per l'anno in corso."
       url: "#!"
-    - text: "We expect to select 40 students, of whom approximately half will be Italian, half German."
-      url: "#!"
-    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
+    - text: "Ci aspettiamo la presenza di circa 150 studenti, di cui circa 50 provenienti dall'Università di Pisa."
       url: "#!"
