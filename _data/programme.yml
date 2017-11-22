@@ -1,95 +1,97 @@
-﻿info: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017.
+﻿info: "L’Associazione Italiana Studenti di Fisica (AISF) è un’associazione di studenti per studenti nata
+nell’Agosto 2014.
+Nel corso dei suoi tre anni di vita è cresciuta fino ad avere oltre 1000 membri in più di 20 università
+italiane ed estere. AISF fa parte di un network internazionale, l’International Association of Physics
+Students, che conta più di 75000 studenti.
+L’associazione è molto attiva a livello locale, conta 12 Comitati Locali su tutto il territorio italiano, con
+eventi di divulgazione scientifica e visite ai laboratori; inoltre AISF organizza eventi internazionali e
+nazionali, tra cui la Conferenza Italiana Studenti di Fisica (CISF).
 </p><p>
-During the Programme, 40 students will be able to visit some cutting-edge facilities including the Nexperia's Front End Manufacturing, DESY, the labs of the Max-Planck-Institute for the structure and dynamics of matter, the Center for Free-Electron Laser Science and the Institute of Laserphysics.
-Moreover, the participants will be given talks by local professors, researchers and managers.
+La CISF è giunta alla quarta edizione e si svolgerà quest’anno a Pisa dove circa 200 studenti
+provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
+della zona, seguire una serie di interventi di illustri Professori e Ricercatori dell’Università di Pisa e
+conoscere e vivere la quotidianità pisana.
 </p><p>"
 
 last_update: 05/06/17
 
 schedule:
-  - day: Wednesday
-    date: "01/11"
-    short_descr: Arrival and welcome lecture
+  - day: Venerdì
+    date: "20/04"
+    short_descr: Accoglienza e cerimonia di apertura
     activity:
-      - hour: "13:00 - 15:30"
-        descr: "Check-in and arrival at the Hotel"
-      - hour: "16:00 - 17:00"
-        descr: "Welcome Reception"
-      - hour: "17:30 - 18:30"
-        descr: "Guest Lecture by Prof. Daniela Pfannkuche"
-      - hour: "19:00-22:00"
-        descr: "Welcome dinner"
-  - day: Thursday
-    date: "02/11"
-    short_descr: Nexperia, student talks, SCM's and STM's
+      - hour: "18:00 - 18:20"
+        descr: "Messaggio di benvenuto dal presidente del comitato locale G. Bagnato"
+      - hour: "18:20 - 18:45"
+        descr: "Presentazione di AISF e {iaps}"
+      - hour: "18:45 - 19:05"
+        descr: "Saluti dal direttore del dipartimento prof. E. Vicari"
+      - hour: "19:05 - 19:30"
+        descr: "Saluti dalle autorità locali"
+      - hour: "19:30 - 20:10"
+        descr: "Talk introduttivi"
+      - hour: "19:05 - 19:30"
+        descr: "Cena tipica toscana"
+  - day: Sabato
+    date: "21/04"
+    short_descr: Scientific talk e visita a VIRGO
     activity:
-      - hour: "8:00 - 9:00"
-        descr: "Breakfast"
-      - hour: "9:00 - 12:00"
-        descr: "Nexperia's Front End Manufacturing facility"
-      - hour: "12:00 - 13:00"
-        descr: "Lunch at Nexperia"
-      - hour: "14:00 - 15:00"
-        descr: "Guest lecture on astrophysics"
-      - hour: "15:00 - 17:00"
-        descr: "Participants Lectures"
-      - hour: "17:00 - 17.30"
+      - hour: "9:00 - 10:00"
+        descr: "Eventi AISF"
+      - hour: "10:00 - 11:00"
+        descr: "Prima sessione di talk"
+      - hour: "11:00 - 11:15"
         descr: "Coffee break"
-      - hour: "17:30 - 19:00"
-        descr: "Guest Lecture and lab Tour, Prof. Wiesendanger"
-      - hour: "19:00 - 22:00"
-        descr: "German Dinner evening"
-  - day: Friday
-    date: "03/11"
-    short_descr: Workshops and DESY
+      - hour: "11:15 - 12:20"
+        descr: "Seconda sessione di talk"
+      - hour: "12:20 - 14:00"
+        descr: "Pranzo"
+      - hour: "14:30 - 18.00"
+        descr: "Visita a VIRGO"
+      - hour: "18:30 - 19:30"
+        descr: "Regions ???"
+      - hour: "19:30 - 21:00"
+        descr: "Cena + Regions"
+  - day: Domenica
+    date: "22/04"
+    short_descr: Talk, poster e Parallels
     activity:
-      - hour: "8:00-9:00"
-        descr: "Breakfast"
-      - hour: "9:00 - 11:00"
-        descr: "Workshop and Discussion with leading manager from the consulting industry"
-      - hour: "11:00 - 13:00"
-        descr: "Workshop and Discussion with leading manager from a patent attorney"
-      - hour: "13:00 - 14:00"
-        descr: "Lunch Break and drive to DESY"
-      - hour: "15:00 - 17:00"
-        descr: "Welcome reception at DESY and an overview lecture on the physics at DESY"
-      - hour: "17:00 - 19:00"
-        descr: " Lecture and Lab tour on DESY's Photon Science Department"
-      - hour: "19:00 - 22:00"
-        descr: "Italian evening"
-  - day: Saturday
-    date: "04/11"
-    short_descr: Max-Planck-Instutute, CFELS, IoL
+      - hour: "9:30-10:30"
+        descr: "Attività AISF"
+      - hour: "10:30 - 11:30"
+        descr: "Terza sessione di talk"
+      - hour: "11:30 - 11:45"
+        descr: "Coffee break"
+      - hour: "11:45 - 12:45"
+        descr: "Quarta sessione di talk"
+      - hour: "13:00 - 14:30"
+        descr: "Pranzo"
+      - hour: "15:00 - 18:00"
+        descr: "Parallels"
+      - hour: "18:00 - 19:00"
+        descr: "Poster session"
+      - hour: "20:00 - "
+        descr: "Serata libera"
+  - day: Lunedì
+    date: "23/04"
+    short_descr: AGA e laboratori a scelta
     activity:
-      - hour: "8:00 - 9:00"
-        descr: "Breakfast"
-      - hour: "10:00 - 13:00"
-        descr: "Lectures and Lab Tour of the Max-Planck-Institute and the Center for Free-Electron Laser Science"
-      - hour: "13:00 - 14:00"
-        descr: "Lunch Break"
-      - hour: "14:00 - 16:00"
-        descr: "Student Talks"
-      - hour: "16:00 - 19:00"
-        descr: "Visit to the Institute of Laserpyhsics and exclusive excursion to the Flash-Laserbeam"
-      - hour: "20:00 - 23:00"
-        descr: "Free Night"
-  - day: Sunday
-    date: "05/11"
-    short_descr: Student Talks and Closing Ceremony
+      - hour: "9:00 - 14:00"
+        descr: "AGA"
+      - hour: "14:00 - 14:30"
+        descr: "Pranzo al sacco"
+      - hour: "14:00 - 19:00"
+        descr: "Visita ai laboratori a scelta"
+      - hour: "20:00 - 22:00"
+        descr: "Cena in pizzeria"
+  - day: Martedì
+    date: "24/04"
+    short_descr: Laboratori a scelta e partenze
     activity:
-     - hour: "8:00 - 9:00"
-       descr: "Breakfast"
-     - hour: "10:00 - 11:00"
-       descr: "Student Talks"
-     - hour: "11:00 - 11:30"
-       descr: "Coffee Break Break"
-     - hour: "11:30 - 13:00"
-       descr: "Student Talks"
-     - hour: "13:00 - 14:00"
-       descr: "Closing Ceremony and Departure"
-     - hour: "14:00 - 16:00"
-       descr: "Optional Guided Tour through Hamburg"
-
+     - hour: "9:00 - 14:00"
+       descr: "Visita ai laboratori a scelta"
+     - hour: "14:00 - "
+       descr: "Partenze"
 
 few_info:
   info: ""
