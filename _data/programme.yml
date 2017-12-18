@@ -28,12 +28,12 @@ schedule:
         descr: "Regions' party"
   - day: Domenica
     date: "22/04"
-    short_descr: <b>Talk, poster e parallels</b>
+    short_descr: <b>Talk, poster & parallel sessions</b>
     activity:
       - hour: "Mattina"
         descr: "Sessione di talk"
       - hour: "Pomeriggio"
-        descr: "Parallels & Poster session"
+        descr: "Parallel & Poster session"
       - hour: "Sera"
         descr: "Serata libera"
   - day: Lunedì
