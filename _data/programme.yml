@@ -1,4 +1,5 @@
 info: "
+<u>Le iscrizioni inizieranno ad anno nuovo.</u> Stay tuned!</p><p>
 La <b>CISF</b> costituisce il principale evento annuale organizzato dall'<b>Associazione Italiana Studenti di Fisica</b> (AISF).
 Giunta alla sua IV edizione, la CISF 2018 si svolgerà a <b>Pisa</b>, dove circa <b>150 studenti</b>
 provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
@@ -11,77 +12,48 @@ schedule:
     date: "20/04"
     short_descr: <b>Accoglienza e cerimonia di apertura</b>
     activity:
-      - hour: "18:00 - 18:20"
-        descr: "Benvenuto dal comitato locale AISF-Pisa"
-      - hour: "18:20 - 18:45"
-        descr: "Presentazione di AISF e {iaps}"
-      - hour: "18:45 - 19:05"
-        descr: "Saluti dal direttore del dipartimento prof. E. Vicari"
-      - hour: "19:05 - 19:30"
-        descr: "Saluti dalle autorità locali"
-      - hour: "19:30 - 20:10"
-        descr: "Talk introduttivi"
-      - hour: "19:05 - 19:30"
+      - hour: "Pomeriggio"
+        descr: "Accoglienza"
+      - hour: "Sera"
         descr: "Cena tipica toscana"
   - day: Sabato
     date: "21/04"
     short_descr: <b>Talk e visita a VIRGO</b>
     activity:
-      - hour: "9:00 - 10:00"
-        descr: "Eventi AISF"
-      - hour: "10:00 - 11:00"
-        descr: "Prima sessione di talk"
-      - hour: "11:00 - 11:15"
-        descr: "Coffee break"
-      - hour: "11:15 - 12:20"
-        descr: "Seconda sessione di talk"
-      - hour: "12:20 - 14:00"
-        descr: "Pranzo"
-      - hour: "14:30 - 18.00"
+      - hour: "Mattina"
+        descr: "Sessione di talk"
+      - hour: "Pomeriggio"
         descr: "Visita a VIRGO"
-      - hour: "18:30 - 19:30"
-        descr: "Regions ???"
-      - hour: "19:30 - 21:00"
-        descr: "Cena + Regions"
+      - hour: "Sera"
+        descr: "Regions' party"
   - day: Domenica
     date: "22/04"
-    short_descr: <b>Talk, poster e Parallels</b>
+    short_descr: <b>Talk, poster e parallels</b>
     activity:
-      - hour: "9:30-10:30"
-        descr: "Attività AISF"
-      - hour: "10:30 - 11:30"
-        descr: "Terza sessione di talk"
-      - hour: "11:30 - 11:45"
-        descr: "Coffee break"
-      - hour: "11:45 - 12:45"
-        descr: "Quarta sessione di talk"
-      - hour: "13:00 - 14:30"
-        descr: "Pranzo"
-      - hour: "15:00 - 18:00"
-        descr: "Parallels"
+      - hour: "Mattina"
+        descr: "Sessione di talk"
+      - hour: "Pomeriggio"
+        descr: "Parallels & Poster session"
       - hour: "18:00 - 19:00"
-        descr: "Poster session"
-      - hour: "20:00 - "
+      - hour: "Sera"
         descr: "Serata libera"
   - day: Lunedì
     date: "23/04"
     short_descr: <b>AGA e laboratori a scelta</b>
     activity:
-      - hour: "9:00 - 14:00"
+      - hour: "Mattina"
         descr: "AGA"
-      - hour: "14:00 - 14:30"
-        descr: "Pranzo al sacco"
-      - hour: "14:00 - 19:00"
+      - hour: "Pomeriggio"
         descr: "Visita ai laboratori a scelta"
-      - hour: "20:00 - 22:00"
+      - hour: "Sera"
         descr: "Cena in pizzeria"
   - day: Martedì
     date: "24/04"
     short_descr: <b>Laboratori a scelta e partenze</b>
     activity:
-     - hour: "9:00 - 14:00"
+     - hour: "Mattina"
        descr: "Visita ai laboratori a scelta"
-     - hour: "14:00 - "
+     - hour: "Pomeriggio"
        descr: "Partenze"
 
 few_info:
@@ -89,5 +61,7 @@ few_info:
   specs:
     - text: "Per partecipare all'evento è necessario essere membri dell'Associazione Italiana Studenti di Fisica (AISF) per l'anno in corso."
       url: "#!"
-    - text: "Ci aspettiamo la presenza di circa 150 studenti, di cui circa 50 provenienti dall'Università di Pisa."
+    - text: "I posti disponibili saranno circa 150, di cui circa 50 riservati a studenti dall'Università di Pisa."
+      url: "#!"
+    - text: "Le iscrizioni all'evento inizieranno ad anno nuovo. Per rimanere il più possibile aggiornati, si consiglia di seguire gli account social riportati appena più in basso."
       url: "#!"
