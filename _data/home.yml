@@ -7,17 +7,17 @@ who: "L'evento è aperto a tutti gli iscritti all'Associazione Italiana Studenti
 
 when: "Da venerdì 20 a martedì 24 Aprile 2018."
 
-where: "Dipartimento di Fisica, Università di Pisa"
+where: "Presso il Dipartimento di Fisica dell'Università di Pisa, oltre che in tutti i laboratori e centri di ricerca che i partecipanti avranno l'opportunità di visitare."
 
 slideshow:
   - img: img/nexperia.JPG
-    alt: Nexperia
-    title: Nexperia
-    text: 
+    alt: VIRGO
+    title: VIRGO
+    text: L'ormai celebre interferometro europeo, puntato alla ricerca di onde gravitazionali con i suoi bracci lunghi 3 km ciascuno.
   - img: img/desy.jpg
-    alt: DESY
-    title: DESY
-    text: DESY's Photon Science department
+    alt: NEST
+    title: NEST
+    text: Il National Enterprise for nanoScience and nanoTechnology, è un centro di ricerca dove fisici, chimici e biologi indagano la materia sulla nanoscala. 
   - img: img/cfel.jpg
     alt: MPSD & CFEL
     title: MPSD & CFEL
