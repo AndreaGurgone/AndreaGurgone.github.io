@@ -2,17 +2,17 @@ banner: img/banner.png
 
 dpg_logo: img/dpg_logo.png
 
-who: "150 studenti, di cui 50 dall'Università di Pisa e 100 dagli atenei di tutta Italia."
+who: "L'evento è aperto a tutti gli iscritti all'Associazione Italiana Studenti di Fisica. In tutto parteciperanno circa 150 studenti di fisica, di cui 50 dall'Università di Pisa e 100 dagli atenei di tutta Italia, oltre a professori e ricercatori di rilevanza itnernazione in qualità di relatori."
 
-when: "Dal 20 al 24 Aprile 2018."
+when: "Da venerdì 20 a martedì 24 Aprile 2018."
 
-where: "Dipartimento di Fisica, Università di Pisa"
+where: "Presso il Dipartimento di Fisica "Enrico Fermi" dell'Università di Pisa, oltre che in tutti i laboratori e centri di ricerca che i partecipanti avranno l'opportunità di visitare."
 
 slideshow:
   - img: img/nexperia.JPG
-    alt: Nexperia
-    title: Nexperia
-    text: 
+    alt: Virgo
+    title: Virgo
+    text: L'interferometro europeo puntato alla ricerca di onde gravitazionali con i suoi bracci lunghi 3 km.
   - img: img/desy.jpg
     alt: DESY
     title: DESY
@@ -26,4 +26,8 @@ slideshow:
     title: ILP
     text: Institute of Laserphysics
 
-paragraph: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017. The event is organized and sponsored by the German Physical Society (DPG)."
+paragraph: "La <b>CISF</b> costituisce il principale evento annuale organizzato dall'<b>Associazione Italiana Studenti di Fisica</b> (AISF).
+Giunta alla sua IV edizione, la CISF 2018 si svolgerà a <b>Pisa</b>, dove circa <b>150 studenti</b>
+provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
+della zona, seguire una serie di interventi di illustri professori e ricercatori, conoscere e vivere la quotidianità dell'ambiente universitario pisano,
+reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR."
