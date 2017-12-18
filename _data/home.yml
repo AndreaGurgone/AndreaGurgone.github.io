@@ -1,12 +1,13 @@
+
 banner: img/banner.png
 
 dpg_logo: img/dpg_logo.png
 
-who: "L'evento è aperto a tutti gli iscritti all'Associazione Italiana Studenti di Fisica. In tutto parteciperanno circa 150 studenti di fisica, di cui 50 dall'Università di Pisa e 100 dagli atenei di tutta Italia."
+who: "150 studenti, di cui 50 dall'Università di Pisa e 100 dagli atenei di tutta Italia."
 
-when: "Da venerdì 20 a martedì 24 Aprile 2018."
+when: "Dal 20 al 24 Aprile 2018."
 
-where: "Presso il Dipartimento di Fisica "Enrico Fermi" dell'Università di Pisa, oltre che in tutti i laboratori e centri di ricerca che i partecipanti avranno l'opportunità di visitare."
+where: "Dipartimento di Fisica, Università di Pisa"
 
 slideshow:
   - img: img/nexperia.JPG
@@ -27,4 +28,3 @@ slideshow:
     text: Institute of Laserphysics
 
 paragraph: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017. The event is organized and sponsored by the German Physical Society (DPG)."
-
