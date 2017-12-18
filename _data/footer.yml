@@ -1,21 +1,16 @@
-title: jDPG - AISF
-descr: The junge Deutsche Physikalische Gesellschaft is the junior division of the DPG which is the biggest national physicist organization in the World. The jDPG was founded in the year 2006 and has since then grown to a size of over 3000 members being one of the active NC's of IAPS. The members of the jDPG mainly consist of Bachelor-, Master- and PHD students.<br><br>
- The Associazione Italiana Studenti di Fisica (AISF) gathers together all the Italian students of physics. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee for the International Associazion of Physics Students (IAPS).
+title: AISF
+descr: L’Associazione Italiana degli Studenti di Fisica è un’associazione con finalità educative e senza fine di lucro. Suoi membri sono tutti gli studenti, iscritti ad un corso di laurea o un dottorato in fisica, che ne facciano richiesta e siano in regola con la quota associativa. 
+Le finalità e gli scopi dell’AISF sono la promozione delle scienze e in particolare della fisica fra gli studenti e lo sviluppo di relazioni fra studenti delle diverse parti del paese.
 
 contact:
-  - name: GIPE
-    mail: 
-  - name: jDPG
-    mail: 
+  - name: CISF-2018
+    mail: cisf2018@ai-sf.it
   - name: AISF
     mail: esecutivo@ai-sf.it
-  - name: IAPS
-    mail:
-
 
 connect:
-  - name: jDPG FB
-    url: https://www.facebook.com/jungedpg
+  - name: Comitato Locale AISF - Pisa FB
+    url: https://www.facebook.com/ComitatoLocalePisa/
   - name: AISF FB
     url: http://www.facebook.com/ass.it.stud.fis
   - name: IAPS FB
