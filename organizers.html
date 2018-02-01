@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Speakers
+title: Organizers
 ---
 
 <p>
-  {{ site.data.speakers.intro }}
+  {{ site.data.organizers.intro }}
 </p>
   <div class="section">
-    <h2>Speakers</h2>
-      {% for item in site.data.speakers.science %}
+    <h2>Organizers</h2>
+      {% for item in site.data.organizers.science %}
       {% assign col = forloop.index0 | modulo:2 %}
       {% if col == 0 %}
        <div class="row">
