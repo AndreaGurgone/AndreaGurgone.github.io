@@ -1,20 +1,26 @@
 info: "<b>Le iscrizioni apriranno lunedì 19 febbraio e chiuderanno giovedì 1 marzo.</b>
 </p><p>
+Sono disponibili <b>150 posti</b>, così suddivisi: 40 studenti dell'Università di Pisa, 100 studenti di altre università italiane, 10 volontari reclutati come supporto all'organizzazione dell'evento.
+</p><p>
+La quota di partecipazione è di <b>50 euro</b> per gli studenti di Pisa, di <b>100 euro</b> per gli studenti di altre università e di <b>30 euro</b> per i volontari.
+La parte comune di quota comprende la partecipazione a tutte le conferenze e le visite previste nel programma dell'evento, i pasti (2 pranzi e e 3 cene), i trasporti interni all'evento e gadget vari.
+La parte aggiuntiva per studenti esterni include anche alloggio e prima colazione in hotel per 3 notti.
+Nella quota <b>non sono compresi</b> i trasporti per raggiungere Pisa, né il pranzo del primo e ultimo giorno, che vanno ritenuti al di fuori dell'evento."
 posters?: false
 
 terms:
-  info: "Prima dell'iscrizione leggete con attenzione quanto segue:"
+  info: "Prima dell'iscrizione leggere con attenzione quanto segue."
   specs:
-    - text: "Vi saranno richiesti alcuni dati personali necessari per partecipare all'evento. All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the universities and research centres involved. We will also send your name and university to the board of the national/local committees of IAPS to check your IAPS membership."
+    - text: "Tutti i dati personali che vi saranno richiesti durante l'iscrizioni, saranno trattati confidenzialmente e utilizzati unicamente dove necessario all'organizzazione dell'evento (alloggio in hotel, visite ai laboratori...)."
       url: "#!"
-    - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference."
+    - text: "L'evento è riservato ai memebri dell'Associazione Italiana Studenti di Fisica (AISF). Se non hai ancora rinnovato la tua iscrizione per l'anno in corso o non ti sei mai iscritto all'associazione, ti preghiamo di farlo il prima possibile."
       url: "#!"
-    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Astroparticle Physics Autumn Programme 2016."
+    - text: "Riconosci e approvi che il comitato organizzatore e le strutture che ospitano l'evento non hanno alcuna responsabilità per infortuni, smarrimenti e danni di qualunque tipo durante tutto lo svolgimento della CISF 2018."
       url: "#!"
-    - text: "You accept the IAPS Code of Conduct."
+    - text: "Accetti il Codice di Condotta IAPS."
       url: "files/IAPS_Code_of_Conduct.pdf"
       button: "PDF"
-    - text: "By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication. You also confirm that the information contained in this application is true and correct."
+    - text: "Accetti di essere filmato, fotografato e documentato in altri modi, per permettere ad AISF la creazione di materiale divulgativo pubblico. Confermi anche che le informazioni fornite durante l'iscrizione siano corrette."
       url: "#!"
     - text: "You accept that the organizing committee cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity."
       url: "#!"
